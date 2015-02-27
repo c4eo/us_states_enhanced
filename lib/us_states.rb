@@ -1,4 +1,3 @@
-require 'pry'
 module State
   class InvalidState < RuntimeError; end
 
