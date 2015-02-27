@@ -5,10 +5,10 @@
 
 Gem::Specification.new do |s|
   s.name = "us_states"
-  s.version = "0.1.1"
+  s.version = "0.1.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Byron Anderson", "Jim Gilliam"]
+  s.authors = ["Byron Anderson", "Jim Gilliam", "Matt E. Patterson"]
   s.date = "2013-01-18"
   s.description = "As simple as that"
   s.email = "byron@nationbuilder.com"
