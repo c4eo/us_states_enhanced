@@ -14,13 +14,13 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "us_states"
-  gem.homepage = "http://github.com/byronanderson/us_states"
+  gem.name = "us_states_enhanced"
+  gem.homepage = "http://github.com/c4eo/us_states_enhanced"
   gem.license = "MIT"
   gem.summary     = "A module containing a list of all of the United States and territories"
   gem.description = "As simple as that"
-  gem.email = "byron@nationbuilder.com"
-  gem.authors = ["Byron Anderson", "Jim Gilliam"]
+  gem.email = "mpatterson@skillsengine.com"
+  gem.authors = ["Byron Anderson", "Jim Gilliam", "Matt E. Patterson"]
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
