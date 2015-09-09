@@ -4,14 +4,14 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = "us_states"
+  s.name = "us_states_enhanced"
   s.version = "0.1.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Byron Anderson", "Jim Gilliam", "Matt E. Patterson"]
   s.date = "2013-01-18"
-  s.description = "As simple as that"
-  s.email = "byron@nationbuilder.com"
+  s.description = "Enhancements on the original us_states gem, repackaged to make it easier for my deploy system."
+  s.email = "mpatterson@skillengine.com"
   s.extra_rdoc_files = [
     "LICENSE.txt",
     "README.rdoc"
@@ -24,12 +24,12 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
-    "lib/us_states.rb",
+    "lib/us_states_enhanced.rb",
     "spec/spec_helper.rb",
-    "spec/us_states_spec.rb",
-    "us_states.gemspec"
+    "spec/us_states_enhanced_spec.rb",
+    "us_states_enhanced.gemspec"
   ]
-  s.homepage = "http://github.com/byronanderson/us_states"
+  s.homepage = "http://github.com/c4eo/us_states_enhanced"
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.24"

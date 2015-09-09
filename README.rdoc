@@ -1,9 +1,9 @@
-= us_states
+= us_states_enhanced
 
 Description goes here.
 
-== Contributing to us_states
- 
+== Contributing to us_states_enhanced
+
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
 * Fork the project.

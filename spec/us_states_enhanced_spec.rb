@@ -1,4 +1,4 @@
-require 'us_states'
+require 'us_states_enhanced'
 
 describe State do
   describe ".normalize" do
